@@ -43,3 +43,23 @@ The following packages were added:
   com.unity.textmeshpro@2.0.1
   com.unity.timeline@1.2.14
   com.unity.ugui@1.0.0
+
+=== Sun Jan 17 20:56:50 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.2.0 to 1.2.2
+  com.unity.test-framework from version 1.1.14 to 1.1.18
+
+=== Sun Jan 17 21:13:43 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.3.4
+  com.unity.ext.nunit@1.0.0
+  com.unity.postprocessing@2.2.2
+  com.unity.recorder@2.0.3-preview.1
